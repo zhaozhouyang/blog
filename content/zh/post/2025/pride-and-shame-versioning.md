@@ -1,12 +1,15 @@
----
-title: 软件版本命名新趋势：“自豪”与“羞愧”版本
-categories:
-- 架构
-tags:
-- 架构
-date: 2025-01-04 08:46:25
-cover: https://zhaozhouyang.oss-cn-beijing.aliyuncs.com/blog/202501/114b3a2d6f81dfd6.png
----
++++
+title = "软件版本命名新趋势：“自豪”与“羞愧”版本"
+date = 2025-05-30T00:39:00-07:00
+lastmod = 2025-06-15T17:54:34-07:00
+tags = ["book", "design", "programming"]
+categories = ["读书感悟", "软件设计"]
+draft = false
+toc = true
+showQuote = true
+highlighted = true
++++
+
 # 软件版本命名新趋势：“自豪”与“羞愧”版本
 
 在软件开发中，版本命名至关重要，它帮助开发者和用户了解软件的更新历史和功能变化。传统的版本号命名方式通常包括主版本号、次版本号和修订号，分别对应不同级别的更新。然而，这种方法有时并不能清晰地表达版本更新的实际意义，尤其是在边界定义上。为此，Nikitonsky 提出了一种新的版本命名模式：“自豪”与“羞愧”版本控制，这种方法试图通过情感的维度来更直观地反映软件版本的变化。
