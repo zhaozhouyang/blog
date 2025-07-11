@@ -38,5 +38,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages   # ✅ 对于主页仓库，必须写这个！
-          force_orphan: true     # ✅ 清空旧内容（避免 public 混入历史）
+          publish_branch: main
+          external_repository: zhaozhouyang/zhaozhouyang.github.io
+          force_orphan: true
